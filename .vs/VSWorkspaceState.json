@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\Administration",
+    "\\resources\\views\\Administration\\pages"
+  ],
+  "SelectedNode": "\\resources\\views\\Administration\\pages\\CalendrierTable.blade.php",
+  "PreviewInSolutionExplorer": false
+}
